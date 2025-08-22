@@ -1,0 +1,7 @@
+{
+  "doc_id": "ZEN-PD-2023-2025-v2",
+  "file": "ZEN_AI_Pioneer_Proof_Dossier_2023-2025.pdf",
+  "sha256": "ffed4cc81b735d7ddc164ca3c851f9fffb12ae04f23598d7a0b7110212c6a578",
+  "created_utc": "2025-08-22 16:17 UTC",
+  "notes": "Detached checksum for dossier. Anchor this value on-chain (EVM tx data), DNS TXT (proof.zenai.world), IPFS/Arweave, Archive.org, and GitHub signed tag."
+}

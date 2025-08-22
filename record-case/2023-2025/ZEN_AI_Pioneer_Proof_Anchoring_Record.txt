@@ -1,0 +1,4 @@
+Document ID: ZEN-PD-2023-2025-v2
+File: ZEN_AI_Pioneer_Proof_Dossier_2023-2025.pdf
+SHA-256: ffed4cc81b735d7ddc164ca3c851f9fffb12ae04f23598d7a0b7110212c6a578
+Created (UTC): 2025-08-22 16:17 UTC
