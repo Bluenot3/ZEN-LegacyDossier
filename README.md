@@ -40,6 +40,7 @@ Located under `record-case/2023-2025/`
   - Archive.org: https://archive.org/details/zen-us-ai-record-case-2023-2025-verification-kit
   - IPFS: https://bafybeieaclbghldgdyfgk475kldwl4xvwlkeeqowatzokwk36m3lrplu6a.ipfs.w3s.link/
   - NFT Base-chain (Zora) -  https://zora.co/coin/base:0xb59d6dd5197df2c337aeb61dc03a0350cd76fd33?referrer=0x8d68ff61e9035fdc3cfb085ff65686f74640600c
+  - Token: ZEN LEGACY DOSSIER (ZLD): Basescan address: 0xb59d6Dd5197DF2C337AEb61dC03A0350cd76FD33
 
 ---
 
